@@ -117,7 +117,7 @@ npm run dev
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](https://github.com/mediuswareltd/n8n-openrouter-node/blob/main/LICENSE.md)
 
 ## Documentation
 

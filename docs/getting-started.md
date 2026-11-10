@@ -20,6 +20,7 @@ npm install n8n-nodes-openrouter-complete
 
 ---
 
+
 ## 2. Installation
 
 In your n8n instance, go to **Settings → Community Nodes** and install:
@@ -38,6 +39,7 @@ npm install n8n-nodes-openrouter-complete
 
 ---
 
+
 ## 3. Development
 
 ```bash
@@ -55,6 +57,7 @@ npm run dev
 ```
 
 ---
+
 
 ## Next
 

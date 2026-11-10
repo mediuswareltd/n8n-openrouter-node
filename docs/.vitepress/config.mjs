@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/n8n-openrouter-node/',
   cleanUrls: true,
   lastUpdated: true,
+  ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.svg' }],
   ],
