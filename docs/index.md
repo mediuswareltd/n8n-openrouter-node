@@ -5,6 +5,9 @@ hero:
   name: "n8n OpenRouter Node"
   text: "200+ AI models inside n8n workflows"
   tagline: "An n8n community node for sending prompts to OpenRouter models including GPT-4o, Claude, Gemini, Llama, and more."
+  image:
+    src: /hero.svg
+    alt: "n8n OpenRouter node"
   actions:
   - theme: brand
     text: Get started
