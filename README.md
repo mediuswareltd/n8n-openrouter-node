@@ -1,5 +1,7 @@
 # n8n-nodes-openrouter-complete
 
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-0f766e)](https://mediuswareltd.github.io/n8n-openrouter-node/)
+
 An n8n community node that lets you send prompts to 200+ AI models via the [OpenRouter](https://openrouter.ai) API — including GPT-4o, Claude, Gemini, Llama, and more.
 
 ---
@@ -114,3 +116,15 @@ npm run dev
 ## License
 
 [MIT](LICENSE.md)
+
+## Documentation
+
+Full docs site (VitePress): **https://mediuswareltd.github.io/n8n-openrouter-node/**
+
+Local preview:
+
+```bash
+cd docs
+npm install
+npm run docs:dev
+```
