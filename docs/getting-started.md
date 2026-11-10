@@ -1,27 +1,62 @@
 # Getting started
 
-Install and run **n8n OpenRouter Node** locally.
+Run **n8n OpenRouter Node** on your machine.
 
-## Prerequisites
+## 1. Install
 
-- Working knowledge of TypeScript
-- Git and a terminal
+In your n8n instance, go to **Settings → Community Nodes** and install:
 
-## Install
-
-```bash
-# in n8n: Settings → Community Nodes
+```
 n8n-nodes-openrouter-complete
 ```
 
-## Quick start
+Or manually via npm (self-hosted only):
 
 ```bash
 npm install n8n-nodes-openrouter-complete
-# add OpenRouter API credential, then use the OpenRouter node
 ```
 
-## Next steps
+> Requires n8n v1.0.0 or later.
 
-- Read the [Guide](/guide) for features and usage.
-- Star or contribute on [GitHub](https://github.com/mediuswareltd/n8n-openrouter-node).
+---
+
+## 2. Installation
+
+In your n8n instance, go to **Settings → Community Nodes** and install:
+
+```
+n8n-nodes-openrouter-complete
+```
+
+Or manually via npm (self-hosted only):
+
+```bash
+npm install n8n-nodes-openrouter-complete
+```
+
+> Requires n8n v1.0.0 or later.
+
+---
+
+## 3. Development
+
+```bash
+# Install dependencies
+npm install
+
+# Build
+npm run build
+
+# Lint
+npm run lint
+
+# Run in dev mode (links to local n8n)
+npm run dev
+```
+
+---
+
+## Next
+
+- Full detail: [Guide](/guide)
+- Source: [github.com/mediuswareltd/n8n-openrouter-node](https://github.com/mediuswareltd/n8n-openrouter-node)
